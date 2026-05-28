@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sara-2-9
-- 👀 I’m interested in travels, music, movies and books
-- 🌱 I’m currently learning React
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/sara-moro-29-), [X](https://x.com/Sara03103213)
+- 👀 I’m interested in travels, music, photos, movies and books
+- 🌱 I'm currently exploring AI
+- 📫 How to reach me [LinkedIn](www.linkedin.com/in/sara-moro-29-), [X](https://x.com/sara_moro_29)
 - ⚡ Fun fact: I have blue hair
 
 <!---
